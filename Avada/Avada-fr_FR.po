@@ -248,7 +248,7 @@ msgstr ""
 #: contact.php:57 contact.php:60
 msgid ""
 "Thank you %s for using our contact form! Your email was successfully sent!"
-msgstr ""
+msgstr "Merci %s pour utiliser notre formulaire de contact! Votre email a été envoyé avec succès!"
 
 # @ Avada
 #: contact.php:69 contact.php:81 includes/class-avada-contact.php:170
@@ -313,7 +313,7 @@ msgstr ""
 
 #: functions.php:678
 msgid "follow this link"
-msgstr ""
+msgstr "Suivre ce lien"
 
 #. translators: %1$s: "System Status" link. %2$s: "View more info here" link.
 #: includes/admin-screens/demos.php:34
@@ -341,15 +341,15 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:34
 msgid "View more info here"
-msgstr ""
+msgstr "Voir plus d'informations ici"
 
 #: includes/admin-screens/demos.php:42
 msgid "All Demos"
-msgstr ""
+msgstr "Toutes les démos"
 
 #: includes/admin-screens/demos.php:66
 msgid "Posts"
-msgstr ""
+msgstr "Articles"
 
 # @ Avada
 #: includes/admin-screens/demos.php:72 includes/options/sidebars.php:119
@@ -362,7 +362,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:84
 msgid "FAQs"
-msgstr ""
+msgstr "FAQ"
 
 #: includes/admin-screens/demos.php:90
 msgid "Products"
@@ -374,11 +374,11 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:102
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: includes/admin-screens/demos.php:108
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 # @ Avada
 #: includes/admin-screens/demos.php:113 includes/metaboxes/metaboxes.php:278
@@ -424,7 +424,7 @@ msgstr "Aperçu"
 
 #: includes/admin-screens/demos.php:231
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #: includes/admin-screens/demos.php:242
 msgid "Live Preview"
@@ -432,7 +432,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:250
 msgid "The Following Plugins Are Required To Import Content"
-msgstr ""
+msgstr "Le plugin suivant est requis pour importer le contenu"
 
 # @ Avada
 #: includes/admin-screens/demos.php:263 includes/class-avada-admin.php:981
@@ -455,7 +455,7 @@ msgstr "Activer"
 
 #: includes/admin-screens/demos.php:311
 msgid "Import Content"
-msgstr ""
+msgstr "Importer le contenu"
 
 #: includes/admin-screens/demos.php:311
 msgid "(menus only import with \"All\")"
@@ -463,7 +463,7 @@ msgstr ""
 
 #: includes/admin-screens/demos.php:318
 msgid "Remove Content"
-msgstr ""
+msgstr "Supprimer le contenu"
 
 #: includes/admin-screens/demos.php:322
 msgid "Uninstall"
@@ -929,7 +929,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/support.php:46
 msgid "Watch Videos"
-msgstr ""
+msgstr "Regarder les vidéos"
 
 #: includes/admin-screens/support.php:49 includes/admin-screens/support.php:51
 msgid "Community Forum"
@@ -15521,12 +15521,12 @@ msgstr ""
 # @ wordpress-importer
 #, fuzzy
 #~ msgid "All done."
-#~ msgstr "Tous"
+#~ msgstr "Tous importés"
 
 # @ wordpress-importer
 #, fuzzy
 #~ msgid "Have fun!"
-#~ msgstr "Vous avez un code promo ?"
+#~ msgstr "Amusez-vous!"
 
 # @ wordpress-importer
 #, fuzzy
